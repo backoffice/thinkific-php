@@ -1,8 +1,8 @@
 {
-    "name" : "elliotboney/thinkific-php",
+    "name" : "backoffice/thinkific-php",
     "description" : "PHP SDK for interacting with the Thinktastic LMS Api",
     "keywords" : [ "thinkific", "lms" ],
-    "homepage" : "https://github.com/elliotboney/thinkific-php",
+    "homepage" : "https://github.com/backoffice/thinkific-php",
     "license" : "MIT",
     "authors" : [
         {
@@ -17,6 +17,6 @@
     },
     "require" : {
         "php" : ">=5.5.0",
-        "guzzlehttp/guzzle" : "^6.0"
+        "guzzlehttp/guzzle" : "^7.0"
     }
 }
